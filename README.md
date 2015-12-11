@@ -17,7 +17,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 ### Files in this Repository:
 
 **run_analysis.R**  does the following:  
-Creates an directory under the working directory, downloads the zip and and extracts.  
+Creates an directory under the working directory, downloads the zip and extracts.  
 Merges the training and the test sets to create one data set.  
 Extracts only the measurements on the mean and standard deviation for each measurement.   
 Uses descriptive activity names to name the activities in the data set.  
