@@ -76,7 +76,7 @@ The regular expression contains a [Word boundary marker](http://stackoverflow.co
 2. **Merging x, y and subject  training and test data sets.**
 activity_labels is  merged  with y to add descriptive activity names to y.
 y, subject and x and column combined to generate allData.  Also the Column names are tidied up:  
-the text -std()replaced with Std  
+the text -std() replaced with Std  
 the text -mean() replaced with Mean  
 and BodyBody replaced with Body  
  
