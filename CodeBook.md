@@ -22,15 +22,16 @@ CodeBook for the tidy dataset
 ### Data of Interest
 The following are the features that we are interested in, in order to generate the tidy data:
 
-There are mean and standard deviation values of the following signals for the 3 axis - X, Y and Z :  (2 * 3 * 8 = 48 Features)
-1. tBodyAcc
-2. tGravityAcc
-3. tBodyAccJerk
-4. tBodyGyro
-5. tBodyGyroJerk
-6. fBodyAcc
-7. fBodyAccJerk
-8. fBodyGyro
+There are mean and standard deviation values of the following signals for the 3 axis - X, Y and Z :  (2 * 3 * 8 = 48 Features)  
+  
+1. tBodyAcc  
+2. tGravityAcc  
+3. tBodyAccJerk  
+4. tBodyGyro  
+5. tBodyGyroJerk  
+6. fBodyAcc  
+7. fBodyAccJerk  
+8. fBodyGyro  
 
 For example there are variables  tBodyAcc-mean()-X and tBodyAcc-std()-X for the mean and standard deviation for the x-Axis.
 
