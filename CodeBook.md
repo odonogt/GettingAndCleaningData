@@ -69,7 +69,7 @@ allData data frame contains the column combined data from the y, subject and x  
 Finally tidyData is an independent tidy data set with the average of each variable for each activity and each subject.
 
 ### Transformations and Code Notes
-1. **Finding  the required columns in the x data set: **
+1. **Finding the required columns in the x data set:**
 To find mean() and std() text in the column names - the grep function is used, passing it a regular expression.
 The regular expression contains a [Word boundary marker](http://stackoverflow.com/questions/7227976/using-grep-in-r-to-find-strings-as-whole-words-but-not-strings-as-part-of-words).
 
